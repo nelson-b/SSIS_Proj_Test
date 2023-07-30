@@ -1,0 +1,10 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="NELSON_SQLEXPRESS.Healthcare"
+  DTS:DTSID="{8DF9D6D9-69AF-4C99-A775-0B45F1D3BE67}"
+  DTS:CreationName="ADO.NET:System.Data.SqlClient.SqlConnection, System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectionString="Data Source=NELSON\SQLEXPRESS;Initial Catalog=Healthcare;Integrated Security=True;Application Name=SSIS-Integration Services Project-{8DF9D6D9-69AF-4C99-A775-0B45F1D3BE67}NELSON\SQLEXPRESS.Healthcare;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
